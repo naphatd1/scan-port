@@ -1,0 +1,9 @@
+streamlit
+python-nmap
+psycopg2-binary
+pandas
+plotly
+pdfkit
+jinja2
+SQLAlchemy
+weasyprint
